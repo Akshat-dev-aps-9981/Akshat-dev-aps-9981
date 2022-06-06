@@ -1,13 +1,46 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+
+  <img src="https://media1.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif?cid=82a1493b52j6digzs54np7hbuuz7ypgche4hc9ijar2gcgba&rid=giphy.gif&ct=g" width="100"/>
+
+</div>
+
+<div id="header" align="center">
+
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+</div>
+
+<div id="badges">
+
+  <a href="your-linkedin-URL">
+
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+
+  </a>
+
+  <a href="your-youtube-URL">
+
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+
+  </a>
+
+  <a href="https://twitter.com/DevAkshat9981?t=tBAtBdwL3jfrhibIvgCx2A&s=09">
+
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+
+  </a>
+
+</div>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Akshat-dev-aps-9981)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshat-dev-aps-9981&show_icons=true&theme=radical)
 
 
-**Akshat-dev-aps-9981/Akshat-dev-aps-9981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Akshat-dev-aps-9981/Akshat-dev-aps-9981** is a ✨ _special_ repository in my github profile..
 
-Here are some ideas to get you started:
+**_Something:_**
 
 - 🔭 I’m currently working on ... Some new Android stuff
 - 🌱 I’m currently learning ... Kotlin
